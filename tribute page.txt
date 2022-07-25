@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<style>	
+		 body {
+			  background-color: yellow;
+			  margin: 20%;
+		}
+		#title {
+			text-align: center;
+			text-shadow: 5px 5px 10px white;
+			font-size: 7vh;
+		}
+		img {
+			display: inline-block;
+			width: 25%;
+		}
+		#caption {
+			font-size: 17px;
+			font-family: Gill Sans;
+			color: purple;
+		}
+		div#tribute-data {
+			background-color: rgb(46, 139, 87, 0.25);
+			box-shadow: 20px 20px 20px #98FB98;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+		h1.title-APJ {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+		#tribute-link {
+			text-decoration: none;
+			color: purple;
+		}
+	</style>
+</head>
+
+<body>
+	<main id="main">
+
+		<!-- Title of the page -->
+		<h1 id="title">
+			C.V.Raman
+		</h1>
+
+		<div id="img">
+
+			<!--Image of the Tribute Person-->
+			<center><img src="C:\Users\ambat\OneDrive\Desktop\lahari\c_v_ramanayk959.webp" id="image" alt="Image of C.V.Raman"><br><br>
+			<small id="caption">
+				Sir Chandrasekhara Venkata Raman FRS ( 7 November 1888 – 21 November 1970) was an Indian physicist known for his work in the field of light scattering.
+                        Using a spectrograph that he developed, he and his student K. S. Krishnan discovered that when light traverses a transparent material, the deflected light changes its wavelength and frequency.
+                        This phenomenon, a hitherto unknown type of scattering of light, which they called "modified scattering" was subsequently termed the Raman effect or Raman scattering. 
+                        Raman received the 1930 Nobel Prize in Physics for the discovery and was the first Asian to receive a Nobel Prize in any branch of science.
+			</small>
+                  </center>
+		</div>
+
+		<div id="tribute-data">
+
+			<!--Achievements and other
+				details of the person-->
+			<h1 class="title-c.v.Raman">
+				About the Scientist
+			</h1>
+
+			
+
+<p>
+				☛ C.V. Raman, in full Sir Chandrasekhara Venkata Raman, (born November 7, 1888, Trichinopoly, India—died November 21, 1970, Bangalore)<br><br>
+				☛ He was the recipient of the Nobel Prize for Physics in 1930 for the discovery that when light traverses a transparent material, some of the light that is deflected changes in wavelength.<br><br>
+				☛ This phenomenon is now called Raman scattering and is the result of the Raman effect.<br><br>
+				☛ After earning a master’s degree in physics at Presidency College, University of Madras, in 1907, Raman became an accountant in the finance department of the Indian government.<br><br> 
+			        ☛ He became professor of physics at the University of Calcutta in 1917. <br><br> 
+                                ☛ Raman frequencies are the energies associated with transitions between different rotational and vibrational states in the scattering material.
+
+				<br><br> 
+                                ☛Raman was knighted in 1929, and in 1933 he moved to the Indian Institute of Science, at Bangalore, as head of the department of physics. 
+				<br><br> 
+                                ☛ In 1947 he was named director of the Raman Research Institute there and in 1961 became a member of the Pontifical Academy of Science.
+				<br><br>
+                                ☛  He contributed to the building up of nearly every Indian research institution in his time, founded the Indian Journal of Physics and the Indian Academy of Sciences, 
+                                   and trained hundreds of students who found important posts in universities and government in India and Myanmar (Burma).
+				<br><br> 
+                                ☛ He was the uncle of Subrahmanyan Chandrasekhar, who won the 1983 Nobel Prize for Physics, with William Fowler. 
+                        <br><br> 
+                                ☛ He has two sons, Radhakrishnan and Chandrashekhar. His son Radhakrishnan went on to become a well-known astronomer.
+				<br><br>
+                                ☛ He was also given India's highest accolade, the Bharat Ratna, in 1954 for his tremendous contribution to science.
+				<br><br> 
+                                ☛ In 1948, he retired from the Indian Institute of Science (IIS).
+				<br><br> 
+                               ☛ CV Raman, the brilliant scientist, spent much of his time in the laboratory, making new findings and seeking information.
+				<br><br> 
+                               ☛C.V. Raman, the scientist who brought India widespread prominence in science, may no longer be with us,
+                                but his essential discoveries will always be with us; his extraordinary findings are still utilized on a big scale nowadays.
+				<br><br><br>
+			</p>
+
+
+		</div>
+		<br>
+		 For more information,
+		check out
+		<a id="tribute-link" href="#">
+			<b>c.v.Raman</b> on Wikipedia. [
+			<small>Developed by @<a href="#">
+					A lahari.</a></a>
+		</small>]
+	</main>
+</body>
+
+</html>
