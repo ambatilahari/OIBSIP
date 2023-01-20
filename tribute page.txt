@@ -53,7 +53,7 @@
 		<div id="img">
 
 			<!--Image of the Tribute Person-->
-			<center><img src="C:\Users\ambat\OneDrive\Desktop\lahari\c_v_ramanayk959.webp" id="image" alt="Image of C.V.Raman"><br><br>
+			<center><img src="C:\Users\ambat\Downloads\Sir_CV_Raman.JPG" id="image" alt="Image of C.V.Raman"><br><br>
 			<small id="caption">
 				Sir Chandrasekhara Venkata Raman FRS ( 7 November 1888 – 21 November 1970) was an Indian physicist known for his work in the field of light scattering.
                         Using a spectrograph that he developed, he and his student K. S. Krishnan discovered that when light traverses a transparent material, the deflected light changes its wavelength and frequency.
